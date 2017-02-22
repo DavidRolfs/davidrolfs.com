@@ -1,9 +1,19 @@
+/*Hero Photo that is covered by nav bar and welcome message */
+
+.hero {
+  height: 550px;
+  background: url(/Users/davidrolfs/Desktop/davidrolfs.com/img/mthood.jpeg);
+  background-size:100%;
+  background-repeat: no-repeat;
+}
+
 /* Header */
 
 .header{
   padding: 10px 0;
 	background: rgba(0,0,0,.5);
-  width:inherit;;
+  width:inherit;
+
 }
 
 .nav li {
@@ -20,4 +30,11 @@
 
 .nav li a:hover {
   color: yellow;
+}
+
+
+/*Welcome message over hero photo*/
+.welcome h1{
+  text-align: center;
+  margin-top: 110px
 }
