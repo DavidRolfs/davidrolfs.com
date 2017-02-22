@@ -1,0 +1,23 @@
+/* Header */
+
+.header{
+  padding: 10px 0;
+	background: rgba(0,0,0,.5);
+  width:inherit;;
+}
+
+.nav li {
+  display:inline-block;
+  font-size: 20px;
+  float:right;
+  margin-right: 20px;
+}
+
+.nav li a {
+  color:white;
+  text-decoration: none;
+}
+
+.nav li a:hover {
+  color: yellow;
+}
