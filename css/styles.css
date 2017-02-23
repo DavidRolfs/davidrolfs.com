@@ -38,3 +38,26 @@
   text-align: center;
   margin-top: 110px
 }
+
+/* Footer */
+
+.footer{
+  background: rgba(0,0,0,.5);
+  margin-top: -105px;
+  text-align: center;
+}
+
+.footer p {
+  color: white;
+  display: inline;
+  margin: -25px;
+}
+
+.footer a {
+  color: white;
+}
+
+
+.footer img {
+  size: 2px;
+}
