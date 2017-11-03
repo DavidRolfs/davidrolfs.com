@@ -61,3 +61,15 @@
 .footer img {
   size: 2px;
 }
+
+/*Contact css */
+#contact-photo{
+  height: 1000px;
+  background: url(/Users/davidrolfs/Desktop/davidrolfs.com/img/moon.jpeg);
+  background-size:100%;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color:white;
+}
